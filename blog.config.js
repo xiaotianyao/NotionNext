@@ -50,7 +50,7 @@ const BLOG = {
   // 无衬线字体 例如'"LXGW WenKai"'
   FONT_SANS: [
     // '"LXGW WenKai"',
-    'STFangsong'
+    'FangSong'
     '"Segoe UI"',
     '"PingFang SC"',
     '-apple-system',
